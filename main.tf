@@ -10,3 +10,6 @@ resource "aws_instance" "nginx-server" {
     ami = "ami-04403b780d96b29d"
     instance_type = "t3.micro"
 }
+
+print ("Prueba Modificado")
+print ("Modificado 2")
