@@ -12,3 +12,4 @@ resource "aws_instance" "nginx-server" {
 }
 
 print ("Quinta modificacion")
+print ("Sexta modificacion")
