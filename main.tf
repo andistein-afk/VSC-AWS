@@ -11,5 +11,4 @@ resource "aws_instance" "nginx-server" {
     instance_type = "t3.micro"
 }
 
-print ("Prueba Modificado")
-print ("Modificado 2")
+print ("Cuarta modificacion")
